@@ -1,12 +1,6 @@
 # TicTacToe C++ 
 
-![image](https://user-images.githubusercontent.com/114533891/213025814-df980894-d361-4de7-8b04-44d17e2433fb.png)
-
-![image](https://user-images.githubusercontent.com/114533891/213025880-88788944-a1e6-47f7-80a7-2fb67c5ea42a.png)
-
-![image](https://user-images.githubusercontent.com/114533891/213026295-abfa8b24-6214-4578-8bd8-7a0902687b6e.png)
-
-![image](https://user-images.githubusercontent.com/114533891/213026344-1ebf2601-3b85-44ca-a6cb-a381c4dc0c7f.png)
-
+![image](https://user-images.githubusercontent.com/114533891/213026676-f27874c4-7751-476b-b8cf-8c161ba4f6ae.png)
+![image](https://user-images.githubusercontent.com/114533891/213026782-02e54594-f01f-4411-8d0f-07df05119df8.png)
 
 
