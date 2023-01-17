@@ -13,6 +13,8 @@ This is what the single player looks like:
 ![image](https://user-images.githubusercontent.com/114533891/213027318-eec4eb0a-f6bf-443c-ae72-f01dff33fed6.png)
 ![image](https://user-images.githubusercontent.com/114533891/213027401-571ab964-eebc-4062-a96a-a8b81bdf2817.png)
 
-
+> ## To run the game:
+g++ ticktactoe.cpp -o tictactoe
+./tictactoe
 
 
