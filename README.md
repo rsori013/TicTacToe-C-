@@ -1,4 +1,11 @@
 # TicTacToe C++ 
+Tic-tac-toe is a simple game that can be played on a 3x3 grid. Here are the basic rules:
+
+The game is played by two players, X and O. Players take turns placing their respective mark (X or O) on the grid. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game. If the grid is filled and no one has won, the game is a draw. A few tips for playing Tic-tac-toe:
+
+Try to block your opponent from getting three in a row. Look for opportunities to create a row of three marks for yourself. Pay attention to what your opponent is doing, and try to anticipate their next move. The game is relatively simple and easy to learn, but can be challenging to master.
+
+
 >## Screenshots:
 This the beginning of the game is like, we can then pick if you want to start the game or not. If yes then you can pick if you want to
 play against the computer or against with a friend. After one game is done there is an option if you want to play again and again until 
